@@ -34,7 +34,7 @@ This project demonstrates how to build a Convolutional Neural Network (CNN) usin
 ## 📊 Results
 
 - **Final Validation Accuracy:** ~99%
-- **Loss Function:** Log loss
+- **Loss Function:** Sparse Categorical CrossEntropy (log loss)
 - **Optimizer:** Adam
 
 > 📉 Training curves and evaluation metrics are included in the notebook.
@@ -45,26 +45,21 @@ This project demonstrates how to build a Convolutional Neural Network (CNN) usin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/handwritten-digit-classification.git
+   git clone https://github.com/rajjaiswal159/First-Image-Classification.git
    cd handwritten-digit-classification
 Install dependencies:
-
-bash
-Copy
-Edit
+```bash
 pip install -r requirements.txt
+```
 Run the notebook:
 
 Open Handwritten-Digit-Classification.ipynb in Jupyter or Google Colab.
 
 <br>
 📁 Project Structure
-cpp
-Copy
-Edit
-├── Handwritten-Digit-Classification.ipynb
-├── README.md
-└── requirements.txt (optional)
+├── Handwritten-Digit-Classification.ipynb ||
+├── README.md ||
+└── requirements.txt
 <br>
 📸 Sample Predictions
 You can visualize a few test image predictions from the trained model in the notebook.
