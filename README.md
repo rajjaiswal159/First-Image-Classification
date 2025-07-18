@@ -66,6 +66,6 @@ You can visualize a few test image predictions from the trained model in the not
 
 <br>
 🙌 Acknowledgments
-MNIST Dataset
+- MNIST Dataset
 
-TensorFlow & Keras Documentation
+- TensorFlow & Keras Documentation
