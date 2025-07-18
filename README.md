@@ -46,7 +46,7 @@ This project demonstrates how to build a Convolutional Neural Network (CNN) usin
 1. Clone the repository:
    ```bash
    git clone https://github.com/rajjaiswal159/First-Image-Classification.git
-   cd handwritten-digit-classification
+   cd First-Image-Classification
 Install dependencies:
 ```bash
 pip install -r requirements.txt
