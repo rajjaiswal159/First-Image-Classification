@@ -56,16 +56,11 @@ Run the notebook:
 Open Handwritten-Digit-Classification.ipynb in Jupyter or Google Colab.
 
 <br>
-📁 Project Structure
-Handwritten-Digit-Classification.ipynb ||
-README.md ||
-requirements.txt
-<br>
 📸 Sample Predictions
 You can visualize a few test image predictions from the trained model in the notebook.
 
 <br>
 🙌 Acknowledgments
 - MNIST Dataset
-
+<br>
 - TensorFlow & Keras Documentation
