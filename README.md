@@ -17,7 +17,7 @@ This project demonstrates how to build a Convolutional Neural Network (CNN) usin
 
 - Python
 - TensorFlow / Keras
-- Matplotlib, Seaborn
+- Matplotlib
 
 <br>
 
