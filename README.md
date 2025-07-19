@@ -57,5 +57,4 @@ Open Handwritten-Digit-Classification.ipynb in Jupyter or Google Colab.
 
 🙌 Acknowledgments
 - MNIST Dataset
-<br>
 - TensorFlow & Keras Documentation
