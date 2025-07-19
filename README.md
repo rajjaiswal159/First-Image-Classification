@@ -57,6 +57,7 @@ Open Handwritten-Digit-Classification.ipynb in Jupyter or Google Colab.
 
 <br>
 📸 Sample Predictions
+<br>
 You can visualize a few test image predictions from the trained model in the notebook.
 
 <br>
