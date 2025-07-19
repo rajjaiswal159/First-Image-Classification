@@ -51,11 +51,10 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Run the notebook:
 
+Run the notebook:
 Open Handwritten-Digit-Classification.ipynb in Jupyter or Google Colab.
 
-<br>
 🙌 Acknowledgments
 - MNIST Dataset
 <br>
